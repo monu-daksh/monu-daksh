@@ -169,7 +169,7 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 
 If you find my projects helpful or interesting, consider supporting my work!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/monu-daksh)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/monudaksh)
 
 </div>
 
