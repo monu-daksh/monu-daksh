@@ -6,12 +6,12 @@
   
   *Passionate about crafting exceptional digital experiences with modern technologies*
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monudaksh009@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monudaksh0009@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monu-daksh/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://monu-daksh.vercel.app/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/monu__daksh)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=monudaksh&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=monu-daksh&color=blueviolet&style=for-the-badge)
   
 </div>
 
@@ -24,7 +24,7 @@ const monuDaksh = {
   role: "Full Stack MERN Developer",
   location: "India 🇮🇳",
   passions: ["Clean Code", "Scalable Architecture", "User Experience"],
-  currentFocus: "Building next-generation web applications",
+  currentFocus: "Building next-generation web applications powered by AI",
   funFact: "I turn coffee ☕ into code 💻"
 };
 ```
@@ -169,7 +169,7 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 
 If you find my projects helpful or interesting, consider supporting my work!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/monudaksh)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/monu-daksh)
 
 </div>
 
