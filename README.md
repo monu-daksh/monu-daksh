@@ -23,6 +23,7 @@
 const monuDaksh = {
   role: "Full Stack MERN Developer",
   location: "India 🇮🇳",
+  contact:"monudaksh0009@gmail.com",
   passions: ["Clean Code", "Scalable Architecture", "User Experience"],
   currentFocus: "Building next-generation web applications powered by AI",
   funFact: "I turn coffee ☕ into code 💻"
